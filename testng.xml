@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNGDemo.FirstTestScenario5"/>
+      <class name="testNGDemo.FirstTestScenario11"/>
+      <class name="testNGDemo.FirstTestScenario4"/>
+      <class name="testNGDemo.FirstTestScenario7"/>
+      <class name="testNGDemo.FirstTestScenario6"/>
+      <class name="testNGDemo.FirstTestScenario3"/>
+      <class name="testNGDemo.FirstTestScenario10"/>
+      <class name="testNGDemo.FirstTestScenario2"/>
+      <class name="org.xyz.automation.fb.KeyboardMouse"/>
+      <class name="testNGDemo.FirstTestScenario"/>
+      <class name="testNGDemo.FirstTestScenario9"/>
+      <class name="testNGDemo.FirstTestScenario8"/>
+      <class name="org.xyz.automation.fb.BrowserControl"/>
+      <class name="org.xyz.automation.fb.FetchDataRuntime"/>
+      <class name="org.xyz.automation.fb.DifferentWBControl"/>
+      <class name="org.xyz.automation.fb.FirstAutomation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

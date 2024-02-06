@@ -1,0 +1,4 @@
+this is real java program
+we are going to read the data from text file
+please do ask if you have any questions.
+this is file reader class whihc is being used to read the data
